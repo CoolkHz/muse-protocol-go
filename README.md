@@ -1,3 +1,7 @@
+> **广告 · Muse 成品号**
+>
+> 需要 Muse 成品号，请联系 Telegram：[@coolkhz](https://t.me/coolkhz)。
+
 <div align="center">
 
 # muse-protocol-go
