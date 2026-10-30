@@ -1,0 +1,21 @@
+# Credentials, sessions and local configuration
+.env
+.env.*
+!.env.example
+*cookies*.json
+*session*.json
+accounts*.json
+*.pem
+*.key
+
+# Runtime output
+/data/
+/bin/
+/dist/
+/muse-protocol
+*.log
+*.tmp
+coverage.out
+.DS_Store
+.idea/
+.vscode/
